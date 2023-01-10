@@ -8,9 +8,12 @@
 - Special Thanks to Nezy
 
 
+
+
 **Download IDA 7.7 [here](https://www.mediafire.com/file/zw1txf3fk9tr6t3/ida77.zip/file)**
 
 **Download PETOOLS [here](https://github.com/petoolse/petools/releases)**
+
 
 # -= Print =- 
 
