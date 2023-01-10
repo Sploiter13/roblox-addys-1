@@ -117,7 +117,7 @@ int __thiscall sub_######(int this, _DWORD *a2)
 2. Find the ref
 3. Go down to the *loc* thing, open the 2nd **sub**
 4. Decompile it.
-5. Go to the top (the start of the function) and you will find it. (the function name dummy lol)
+5. Go to the top (the start of the function) and you should find it. 
 
 ```cpp
 int sub_######() 
