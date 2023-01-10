@@ -131,7 +131,7 @@ int sub_######()
 ![image](https://user-images.githubusercontent.com/77842492/211193894-a60517ef-3ef0-4b8c-9218-06097319fbc3.png)
 ![image](https://user-images.githubusercontent.com/77842492/211193901-8b83d281-0845-48da-bfa2-394a06ff85ff.png)
 
-# -= LuaState Offsets =-
+# -= LuaState Offsets (base and top) =-
 
 1. Search for the string `Argument 3 missing or nil`
 2. Find the Ref
