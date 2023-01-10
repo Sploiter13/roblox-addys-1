@@ -68,6 +68,20 @@ well **7B1C00** is the addy, **So it's 0x7B1C00**
 
 ![image](https://user-images.githubusercontent.com/77842492/211036318-f5cec11e-89bf-45f2-9c61-e7ff9dacc58e.png)
 
+# -= Luao_Pushvfstring =-
+
+1. Search for the string `%s:%d: %s`
+2. Find the Ref
+3. Decompile it
+
+```cpp
+        v8 = sub_000000();
+        return sub_######(a1, "%s:%d: %s", v7, v8, a2);
+//This is the addy ^^^^^^ <-
+```
+![image](https://user-images.githubusercontent.com/77842492/211052050-da6775bd-f300-4d41-b132-39cbd59bcab8.png)
+
+**So, it's 0x######**
 
 # -= GetState =-
 
