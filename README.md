@@ -1,6 +1,6 @@
 # How to find Roblox addys to update your Roblox Exploit!
 
-- mainly for [Nezy Exploit](https://github.com/NezyDev/Nezy-ExploitV2) ... at least for now..
+- mainly for [Nezy Exploit](https://github.com/NezyDev/Nezy-ExploitV2) (at least for now..)
 
 - 1/6/2023
 - version-f51be0bac4f14d35
