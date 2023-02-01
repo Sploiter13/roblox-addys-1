@@ -1,12 +1,8 @@
 # How to find Roblox addys to update your Roblox Exploit!
 
-- mainly for [Nezy Exploit](https://github.com/NezyDev/Nezy-ExploitV2) (at least for now..)
-
 - 1/6/2023
 - version-f51be0bac4f14d35
-- Volt was here
 - Special Thanks to Nezy & Dx
-- I will add more addys soon
 - **Download IDA 7.7 [here](https://www.mediafire.com/file/zw1txf3fk9tr6t3/ida77.zip/file)**
 - **Download PETOOLS [here](https://github.com/petoolse/petools/releases)**
 
